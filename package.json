@@ -1,0 +1,24 @@
+{
+  "name": "adt-memory-cache-ttl",
+  "version": "1.0.52",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": "Cache Management",
+  "main": "index.js",
+  "scripts": {},
+  "author": "ADTSOL",
+  "keywords": [
+    "cache",
+    "simple",
+    "ttl",
+    "memory"
+  ],
+  "license": "ADTSOL",
+  "private": true,
+  "devDependencies": {
+    "object-sizeof": "^1.6.0"
+  },
+  "dependencies": {}
+}
